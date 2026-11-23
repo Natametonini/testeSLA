@@ -1,6 +1,7 @@
 /home/natametonini/repos/testeSLA/src/main/java/com/sistema/sla/SlaApplication.java
 /home/natametonini/repos/testeSLA/src/main/java/com/sistema/sla/controller/AlunoBean.java
 /home/natametonini/repos/testeSLA/src/main/java/com/sistema/sla/controller/CoordenadoraBean.java
+/home/natametonini/repos/testeSLA/src/main/java/com/sistema/sla/controller/HomeController.java
 /home/natametonini/repos/testeSLA/src/main/java/com/sistema/sla/controller/LoginBean.java
 /home/natametonini/repos/testeSLA/src/main/java/com/sistema/sla/controller/ProfessorBean.java
 /home/natametonini/repos/testeSLA/src/main/java/com/sistema/sla/controller/SessionBean.java
